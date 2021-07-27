@@ -1,0 +1,1 @@
+server:  port: 8081    error:    include-message: always    #BASE DE DATOS##ORACLE CONFIGURATION DBspring:  datasource:    url: jdbc:oracle:thin:@localhost:1521:xe    username: MS022021_INSTRUCTORES    password: 123456    driver-class-name: oracle.jdbc.driver.OracleDriver   #DEPENDENCIAS        #OBSERVABILIDAD(Logs y Trasas)#SEGURIDAD
