@@ -25,5 +25,5 @@ spring:
           searchPaths: ms-gestion-config-data 
           username: ${USER_NAME}
           password: ${USER_PASSWORD}
-          default-label: 1.-Config-server
+          default-label: 1.Config-server
           clone-on-start: true
